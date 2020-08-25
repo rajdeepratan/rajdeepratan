@@ -7,6 +7,6 @@ Full Stack Developer with a demonstrated history of working in the computer soft
 - 👯 I’m looking to collaborate on open-source project.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me if you cannot find answer on stackoverflow.
-- 📫 Feel free to say hi: rajdeepratan@hotmail.com .
+- 📫 Feel free to say hi: rajdeepratan@hotmail.com
 - 😄 Pronouns: Guitarist, Rally Navigator, Photographer, Ready-to-go.
 - ⚡ Fun fact: Computers run on binary code, which means that their software is written using only 1s and 0s.
