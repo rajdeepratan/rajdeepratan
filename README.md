@@ -1,11 +1,19 @@
 ### Hi there 👋
 
-Full Stack Developer with a demonstrated history of working in the computer software industry. Skilled in HTML, CSS, JavaScript, ReactJS, React-Native, NodeJS, MongoDB, AWS and Google Cloud.
+I'm Rajdeep Singh Ratan, a Senior Software Engineer based in Toronto, building AI-powered systems, full-stack products, and developer tools.
 
-- 🔭 I’m currently working on Javascript Frameworks: ReactJS, React-Native, NodeJS.
-- 🌱 I’m currently learning Artificial Intelligence and Neural Engine.
-- 👯 I’m looking to collaborate on open-source project.
-- 💬 Ask me if you cannot find answer on stackoverflow.
-- 📫 Feel free to say hi: rajdeepratan@hotmail.com
-- 😄 Hobby: Guitarist, Rally Navigator, Photographer, Ready-to-go.
-- ⚡ Fun fact: Computers run on binary code, which means that their software is written using only 1s and 0s.
+I work across React, Next.js, Node.js, TypeScript, Python, MongoDB, PostgreSQL, AWS, Azure, Docker, and modern AI engineering workflows including RAG, vector databases, prompt engineering, and agentic AI.
+
+- 🔭 I’m currently building AI-driven tooling for mission-critical 911 dispatch infrastructure.
+- 🧠 I’m focused on RAG systems, AI agents, full-stack architecture, and developer productivity.
+- 🛠️ I like building practical tools: AI portfolios, Claude Code workflows, TypeScript libraries, and automation systems.
+- 🌱 I’m always learning by shipping side projects, studying real-world systems, and experimenting with new AI workflows.
+- 👯 I’m open to collaborating on open-source tools, AI products, and developer experience projects.
+- 💬 Ask me about AI engineering, React/Next.js, Node.js, system design, cloud architecture, or building production-ready apps.
+- 📫 Reach me at: hello@rajdeepratan.com
+- 🌐 Portfolio: https://rajdeepratan.com
+<a href="https://buymeacoffee.com/rajdeepratan" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="162">
+</a>
+
+Outside of code, I enjoy hiking, photography, biking around the city, and exploring new places.
