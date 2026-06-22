@@ -1,0 +1,72 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff" />
+      <stop offset="50%" style="stop-color:#bc8cff" />
+      <stop offset="100%" style="stop-color:#58a6ff" />
+      <animate attributeName="x1" values="0%;100%;0%" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;200%;100%" dur="4s" repeatCount="indefinite" />
+    </linearGradient>
+    <linearGradient id="subtitleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b949e" />
+      <stop offset="100%" style="stop-color:#c9d1d9" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bg)" rx="12" />
+
+  <!-- Decorative dots -->
+  <circle cx="60" cy="40" r="2" fill="#58a6ff" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="740" cy="160" r="2" fill="#bc8cff" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="680" cy="45" r="1.5" fill="#58a6ff" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="120" cy="155" r="1.5" fill="#bc8cff" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2.5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="400" cy="25" r="1" fill="#c9d1d9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.5;0.15" dur="5s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Terminal bracket decorations -->
+  <text x="80" y="105" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="28" fill="#58a6ff" opacity="0.4">&lt;</text>
+  <text x="710" y="105" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="28" fill="#58a6ff" opacity="0.4">/&gt;</text>
+
+  <!-- Name -->
+  <text x="400" y="85" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="36" font-weight="700" fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)">
+    Rajdeep Singh Ratan
+  </text>
+
+  <!-- Title -->
+  <text x="400" y="120" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" fill="url(#subtitleGrad)" text-anchor="middle" letter-spacing="2">
+    Senior Software Engineer &amp; AI Architect
+  </text>
+
+  <!-- Animated underline -->
+  <line x1="250" y1="135" x2="550" y2="135" stroke="url(#textGrad)" stroke-width="1" opacity="0.4">
+    <animate attributeName="x1" values="300;250;300" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="x2" values="500;550;500" dur="3s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Location -->
+  <text x="400" y="160" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" fill="#8b949e" text-anchor="middle">
+    Toronto, Canada
+  </text>
+</svg>
