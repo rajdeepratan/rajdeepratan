@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Rajdeep Singh Ratan — Senior Software Engineer & AI Architect" width="800" />
+  <img src="assets/header.png" alt="Rajdeep Singh Ratan — Senior Software Engineer & AI Architect" width="800" />
 </p>
 
 <p align="center">
@@ -150,21 +150,6 @@ Currently building AI-driven tooling for **mission-critical 911 dispatch infrast
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="assets/divider.svg" width="800" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdeepratan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajdeepratan&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeepratan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="assets/divider.svg" width="800" />
