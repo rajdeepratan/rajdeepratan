@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.png" alt="Rajdeep Singh Ratan — Senior Software Engineer & AI Architect" width="800" />
+  <img src="assets/header.png" alt="Rajdeep Singh Ratan — Senior Software Engineer & AI Architect" width="100%" />
 </p>
 
 <p align="center">
