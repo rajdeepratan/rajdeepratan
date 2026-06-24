@@ -9,8 +9,8 @@
   <a href="https://linkedin.com/in/rajdeepratan">
     <img src="https://img.shields.io/badge/LinkedIn-rajdeepratan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hello@rajdeepratan.com">
-    <img src="https://img.shields.io/badge/Email-hello@rajdeepratan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:humanintheloop@rajdeepratan.com">
+    <img src="https://img.shields.io/badge/Email-humanintheloop@rajdeepratan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
