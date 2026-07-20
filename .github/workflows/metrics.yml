@@ -39,4 +39,5 @@ jobs:
             .title { color: #e3b341 !important; }
             .ps1-path { color: #3fb950 !important; }
             .ps1-location { color: #58a6ff !important; }
-            .banner, footer { color: #7d8590 !important; }
+            .banner { display: none !important; }
+            footer { color: #7d8590 !important; }
