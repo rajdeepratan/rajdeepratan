@@ -24,14 +24,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/github-metrics.svg" alt="GitHub metrics — commits, PRs, stars, and activity" width="480" />
-</p>
-
-<p align="center">
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepratan&background=010409&ring=e3b341&fire=e3b341&currStreakLabel=3fb950&sideLabels=c9d1d9&sideNums=f0f6fc&border=30363d" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-dark.svg">
     <img alt="Insert coin to connect" src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-light.svg" width="100%" />
