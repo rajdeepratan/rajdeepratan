@@ -1,0 +1,39 @@
+name: Metrics
+
+on:
+  # Run manually from the Actions tab
+  workflow_dispatch:
+  # Refresh once a day
+  schedule:
+    - cron: "0 6 * * *"
+  # Regenerate whenever this workflow changes
+  push:
+    branches: [master]
+    paths: [.github/workflows/metrics.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # PAT stored as a repo secret (see setup notes)
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Commit the generated SVG into the repo
+          filename: assets/github-metrics.svg
+          output_action: commit
+          committer_branch: master
+          committer_message: "chore: update metrics svg"
+          # Dark terminal card that fits the arcade theme
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Toronto
+          # Language breakdown (the piece the stats card was for)
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
