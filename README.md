@@ -33,5 +33,6 @@
 <p align="center">
   <a href="https://rajdeepratan.com"><b>PORTFOLIO</b></a> ·
   <a href="https://linkedin.com/in/rajdeepratan"><b>LINKEDIN</b></a> ·
-  <a href="mailto:humanintheloop@rajdeepratan.com"><b>EMAIL</b></a>
+  <a href="mailto:humanintheloop@rajdeepratan.com"><b>EMAIL</b></a> ·
+  <a href="https://buymeacoffee.com/rajdeepratan"><b>BUY ME A COFFEE</b></a>
 </p>
