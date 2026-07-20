@@ -24,12 +24,6 @@
 </p>
 
 <p align="center">
-  <b>claude-setup-kit</b> — <a href="https://www.npmjs.com/package/claude-setup-kit">npm</a> · <a href="https://github.com/rajdeepratan/claude-setup-kit">repo</a>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <b>typescriptds</b> — <a href="https://www.npmjs.com/package/typescriptds">npm</a> · <a href="https://github.com/sourceouverte/tsds">repo</a> · <a href="https://sourceouverte.github.io">docs</a>
-</p>
-
-<p align="center">
   <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepratan&background=010409&ring=e3b341&fire=e3b341&currStreakLabel=3fb950&sideLabels=c9d1d9&sideNums=f0f6fc&border=30363d" alt="GitHub streak stats" />
 </p>
 
