@@ -23,22 +23,13 @@
   </picture>
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://www.npmjs.com/package/claude-setup-kit">npm</a> ·
-      <a href="https://github.com/rajdeepratan/claude-setup-kit">repo</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://www.npmjs.com/package/typescriptds">npm</a> ·
-      <a href="https://github.com/sourceouverte/tsds">repo</a> ·
-      <a href="https://sourceouverte.github.io">docs</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>claude-setup-kit</b> — <a href="https://www.npmjs.com/package/claude-setup-kit">npm</a> · <a href="https://github.com/rajdeepratan/claude-setup-kit">repo</a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <b>typescriptds</b> — <a href="https://www.npmjs.com/package/typescriptds">npm</a> · <a href="https://github.com/sourceouverte/tsds">repo</a> · <a href="https://sourceouverte.github.io">docs</a>
+</p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=rajdeepratan&show_icons=true&bg_color=010409&title_color=e3b341&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950&border_color=30363d&include_all_commits=true" alt="GitHub stats" />
   <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepratan&background=010409&ring=e3b341&fire=e3b341&currStreakLabel=3fb950&sideLabels=c9d1d9&sideNums=f0f6fc&border=30363d" alt="GitHub streak stats" />
 </p>
 
