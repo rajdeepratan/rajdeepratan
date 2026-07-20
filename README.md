@@ -24,15 +24,10 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-dark.svg">
-    <img alt="Insert coin to connect" src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-light.svg" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://rajdeepratan.com"><b>PORTFOLIO</b></a> ·
-  <a href="https://linkedin.com/in/rajdeepratan"><b>LINKEDIN</b></a> ·
-  <a href="mailto:humanintheloop@rajdeepratan.com"><b>EMAIL</b></a> ·
-  <a href="https://buymeacoffee.com/rajdeepratan"><b>BUY ME A COFFEE</b></a>
+  <a href="https://rajdeepratan.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-dark.svg">
+      <img alt="INSERT COIN TO CONNECT → PORTFOLIO · LINKEDIN · EMAIL · BUY ME A COFFEE" src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-light.svg" width="100%" />
+    </picture>
+  </a>
 </p>
