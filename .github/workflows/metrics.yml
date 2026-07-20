@@ -32,8 +32,11 @@ jobs:
           template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: America/Toronto
-          # Language breakdown (the piece the stats card was for)
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
+          # Recolor the terminal to match the arcade palette (#010409 + gold/green/blue)
+          extras_css: >
+            pre { background: #010409 !important; color: #c9d1d9 !important; }
+            .header { background: #010409 !important; border-bottom: 2px solid #30363d !important; }
+            .title { color: #e3b341 !important; }
+            .ps1-path { color: #3fb950 !important; }
+            .ps1-location { color: #58a6ff !important; }
+            .banner, footer { color: #7d8590 !important; }
