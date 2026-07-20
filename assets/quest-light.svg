@@ -10,10 +10,9 @@
 <rect x="0" y="0" width="832" height="160" fill="#f0f9f2"/>
 <rect x="4" y="4" width="824" height="152" fill="none" stroke="#1a7f37" stroke-width="2" stroke-dasharray="8 6"/>
 <g>
-<polygon points="28,27 35,34 28,41 21,34" fill="#1a7f37"/>
-<text x="42" y="39" class="h" font-size="11" fill="#1a7f37">ACTIVE QUEST</text>
+<polygon points="28,31 35,38 28,45 21,38" fill="#1a7f37"/>
+<text x="42" y="43" class="h" font-size="11" fill="#1a7f37">ACTIVE QUEST</text>
 </g>
-<text x="24" y="76" class="b" font-size="16" fill="#424a53">Building AI-driven tooling for <tspan fill="#1f2328">mission-critical 911 dispatch</tspan></text>
-<text x="24" y="102" class="b" font-size="16" fill="#424a53"><tspan fill="#1f2328">infrastructure</tspan> — RAG pipelines, AI agents, and full-stack</text>
-<text x="24" y="128" class="b" font-size="16" fill="#424a53">products from LLM integration to UI.</text>
+<text x="24" y="95" class="b" font-size="21" fill="#424a53">Building AI-driven tooling for <tspan font-weight="bold" fill="#1f2328">mission-critical 911 dispatch infrastructure</tspan> &#8212; RAG</text>
+<text x="24" y="127" class="b" font-size="21" fill="#424a53">pipelines, AI agents, and full-stack products from LLM integration to UI.</text>
 </svg>
