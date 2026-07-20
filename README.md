@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rajdeepratan.com">Portfolio</a> ·
-  <a href="https://linkedin.com/in/rajdeepratan">LinkedIn</a> ·
-  <a href="mailto:humanintheloop@rajdeepratan.com">Email</a>
+  <a href="https://rajdeepratan.com"><b>PORTFOLIO</b></a> ·
+  <a href="https://linkedin.com/in/rajdeepratan"><b>LINKEDIN</b></a> ·
+  <a href="mailto:humanintheloop@rajdeepratan.com"><b>EMAIL</b></a>
 </p>
