@@ -24,10 +24,16 @@
 </p>
 
 <p align="center">
-  <a href="https://rajdeepratan.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-dark.svg">
-      <img alt="INSERT COIN TO CONNECT → PORTFOLIO · LINKEDIN · EMAIL · BUY ME A COFFEE" src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-light.svg" width="100%" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-rule-dark.svg">
+    <img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-rule-light.svg" width="100%" alt="" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-lead-dark.svg"><img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-lead-light.svg" alt="INSERT COIN TO CONNECT →" /></picture>
+  <a href="https://rajdeepratan.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-portfolio-dark.svg"><img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-portfolio-light.svg" alt="Portfolio" /></picture></a>
+  <a href="https://linkedin.com/in/rajdeepratan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-linkedin-dark.svg"><img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-linkedin-light.svg" alt="· LinkedIn" /></picture></a>
+  <a href="mailto:humanintheloop@rajdeepratan.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-email-dark.svg"><img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-email-light.svg" alt="· Email" /></picture></a>
+  <a href="https://buymeacoffee.com/rajdeepratan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-coffee-dark.svg"><img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/footer-coffee-light.svg" alt="· Buy me a coffee" /></picture></a>
 </p>
