@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/hero.svg" alt="Rajdeep Ratan — Senior Software Engineer & AI Architect, Toronto. Currently: Intrado, 911 dispatch AI." width="100%" />
+  <img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/hero.svg" alt="Rajdeep Ratan — Senior Software Engineer & AI Architect, Guelph. Currently: Intrado, 911 dispatch AI." width="100%" />
 </p>
 
 <p align="center">
