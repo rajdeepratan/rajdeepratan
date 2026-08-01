@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rajdeepratan/claude-setup-kit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/loot-claude-dark.svg"><img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/loot-claude-light.svg" alt="claude-setup-kit — Claude Code setup guides + 4 slash commands (npx claude-setup-kit)" width="48%" /></picture></a>
+  <a href="https://github.com/rajdeepratan/SlashForge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/loot-slashforge-dark.svg"><img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/loot-slashforge-light.svg" alt="slashforge — workflow slash commands for AI coding agents (npx slashforge)" width="48%" /></picture></a>
   <a href="https://github.com/sourceouverte/tsds"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/loot-ts-dark.svg"><img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/loot-ts-light.svg" alt="typescriptds — Data structures in TS: Graph, LinkedList, Queue, Stack, Tree" width="48%" /></picture></a>
 </p>
 
