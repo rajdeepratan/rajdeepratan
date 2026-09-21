@@ -56,7 +56,7 @@
 
   <!-- Title -->
   <text x="400" y="120" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" fill="url(#subtitleGrad)" text-anchor="middle" letter-spacing="2">
-    Senior Software Engineer &amp; AI Architect
+    AI Architect · Agentic Systems · RAG in Production
   </text>
 
   <!-- Animated underline -->
