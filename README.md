@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/hero.svg" alt="Rajdeep Ratan — Senior Software Engineer & AI Architect, Guelph. Currently: Intrado, 911 dispatch AI." width="100%" />
+  <img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/hero.svg" alt="Rajdeep Ratan — AI Architect · Agentic Systems · RAG in Production, Guelph. Currently: Intrado, 911 dispatch AI." width="100%" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/stats-dark.svg">
-    <img alt="Character stats: TypeScript 95%, React/Next 92%, Node.js 90%, AI/RAG/LLM 88%, Python 80%, AWS/Azure 85%" src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/stats-light.svg" width="100%" />
+    <img alt="Character stats: TypeScript 95%, React/Next 92%, Node.js 90%, AI/RAG/LLM 88%, Python 80%, AWS/Azure 85%, System Design 88%, Docker/CI-CD 82%, Postgres/Mongo 78%, Testing/QA 75%" src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/stats-light.svg" width="100%" />
   </picture>
 </p>
 
