@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/hero.svg" alt="Rajdeep Ratan — AI Architect · Agentic Systems · RAG in Production, Guelph. Currently: Intrado, 911 dispatch AI." width="100%" />
+  <img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/hero.svg" alt="Rajdeep Ratan - Forward Deployed Engineer and AI Architect. Agentic systems, RAG in production. Guelph, Canada. Open to work." width="100%" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/quest-dark.svg">
-    <img alt="Active quest: building AI-driven tooling for mission-critical 911 dispatch infrastructure — RAG pipelines, AI agents, and full-stack products from LLM integration to UI." src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/quest-light.svg" width="100%" />
+    <img alt="Active quest: building AI-driven tooling on real enterprise data, not demo datasets. RAG pipelines, AI agents, and full-stack products from LLM integration to UI." src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/quest-light.svg" width="100%" />
   </picture>
 </p>
 

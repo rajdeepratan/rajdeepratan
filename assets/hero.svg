@@ -18,7 +18,7 @@
 
 <g>
 <polygon points="24.0,23.0 25.7,27.6 30.7,27.8 26.8,30.9 28.1,35.7 24.0,32.9 19.9,35.7 21.2,30.9 17.3,27.8 22.3,27.6" fill="#e3b341"/>
-<text x="38" y="35" class="h" font-size="10" fill="#e3b341">PLAYER 1 &#8212; PRESS START</text>
+<text x="38" y="35" class="h" font-size="10" fill="#e3b341">PLAYER 1 - PRESS START</text>
 <polygon points="300.0,23.0 301.7,27.6 306.7,27.8 302.8,30.9 304.1,35.7 300.0,32.9 295.9,35.7 297.2,30.9 293.3,27.8 298.3,27.6" fill="#e3b341"/>
 </g>
 
@@ -105,17 +105,17 @@
 
 <text x="140" y="98" class="h" font-size="20" fill="#f0f6fc">RAJDEEP RATAN</text>
 
-<text x="140" y="132" class="b" font-size="22" fill="#3fb950">&gt; AI ARCHITECT · AGENTIC SYSTEMS · RAG IN PRODUCTION</text>
+<text x="140" y="132" class="b" font-size="22" fill="#3fb950">&gt; FORWARD DEPLOYED ENGINEER · AI ARCHITECT</text>
 <!-- cover-wipe reveal: the VT323 text is always painted; a bg-colored rect slides off it left-to-right -->
-<rect x="139" y="112" width="462" height="26" fill="#010409">
-  <animate attributeName="x" from="139" to="601" dur="2s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/>
-  <animate attributeName="width" from="462" to="0" dur="2s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/>
+<rect x="139" y="112" width="373" height="26" fill="#010409">
+  <animate attributeName="x" from="139" to="512" dur="2s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/>
+  <animate attributeName="width" from="373" to="0" dur="2s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/>
 </rect>
-<rect x="602" y="114" width="10" height="18" fill="#3fb950" opacity="0">
+<rect x="513" y="114" width="10" height="18" fill="#3fb950" opacity="0">
   <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.49;0.5;0.99;1" dur="1s" begin="2.5s" repeatCount="indefinite" calcMode="discrete"/>
 </rect>
 
 <text x="140" y="178" class="b" font-size="18" fill="#7d8590">LVL: <tspan fill="#e3b341">SENIOR</tspan></text>
-<text x="330" y="178" class="b" font-size="18" fill="#7d8590">GUILD: <tspan fill="#58a6ff">INTRADO &#183; 911 DISPATCH AI</tspan></text>
+<text x="330" y="178" class="b" font-size="18" fill="#7d8590">GUILD: <tspan fill="#58a6ff">OPEN TO WORK</tspan></text>
 <text x="680" y="178" class="b" font-size="18" fill="#7d8590">LOC: <tspan fill="#3fb950">GUELPH</tspan></text>
 </svg>

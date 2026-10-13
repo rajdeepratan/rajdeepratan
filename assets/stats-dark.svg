@@ -15,9 +15,9 @@
 <text x="42" y="35" class="h" font-size="12" fill="#f0f6fc">CHARACTER STATS</text>
 </g>
 
-<text x="24" y="91" class="b" font-size="19" fill="#c9d1d9">TYPESCRIPT</text>
+<text x="24" y="91" class="b" font-size="19" fill="#c9d1d9">AI/RAG/LLM</text>
 <rect x="142" y="76" width="180" height="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
-<clipPath id="scdark0"><rect x="142" y="76" width="0" height="14"><animate attributeName="width" from="0" to="171.0" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
+<clipPath id="scdark0"><rect x="142" y="76" width="0" height="14"><animate attributeName="width" from="0" to="158.4" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
 <g clip-path="url(#scdark0)">
 <pattern id="stripedark0" width="10" height="14" patternUnits="userSpaceOnUse">
   <rect width="10" height="14" fill="#58a6ff"/>
@@ -25,10 +25,10 @@
 </pattern>
 <rect x="142" y="76" width="180" height="14" fill="url(#stripedark0)"/>
 </g>
-<text x="332" y="91" class="b" font-size="19" fill="#58a6ff">95%</text>
-<text x="432" y="91" class="b" font-size="19" fill="#c9d1d9">REACT/NEXT</text>
+<text x="332" y="91" class="b" font-size="19" fill="#58a6ff">88%</text>
+<text x="432" y="91" class="b" font-size="19" fill="#c9d1d9">TYPESCRIPT</text>
 <rect x="550" y="76" width="180" height="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
-<clipPath id="scdark1"><rect x="550" y="76" width="0" height="14"><animate attributeName="width" from="0" to="165.6" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
+<clipPath id="scdark1"><rect x="550" y="76" width="0" height="14"><animate attributeName="width" from="0" to="171.0" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
 <g clip-path="url(#scdark1)">
 <pattern id="stripedark1" width="10" height="14" patternUnits="userSpaceOnUse">
   <rect width="10" height="14" fill="#3fb950"/>
@@ -36,10 +36,10 @@
 </pattern>
 <rect x="550" y="76" width="180" height="14" fill="url(#stripedark1)"/>
 </g>
-<text x="740" y="91" class="b" font-size="19" fill="#3fb950">92%</text>
-<text x="24" y="135" class="b" font-size="19" fill="#c9d1d9">NODE.JS</text>
+<text x="740" y="91" class="b" font-size="19" fill="#3fb950">95%</text>
+<text x="24" y="135" class="b" font-size="19" fill="#c9d1d9">REACT/NEXT</text>
 <rect x="142" y="120" width="180" height="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
-<clipPath id="scdark2"><rect x="142" y="120" width="0" height="14"><animate attributeName="width" from="0" to="162.0" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
+<clipPath id="scdark2"><rect x="142" y="120" width="0" height="14"><animate attributeName="width" from="0" to="165.6" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
 <g clip-path="url(#scdark2)">
 <pattern id="stripedark2" width="10" height="14" patternUnits="userSpaceOnUse">
   <rect width="10" height="14" fill="#e3b341"/>
@@ -47,10 +47,10 @@
 </pattern>
 <rect x="142" y="120" width="180" height="14" fill="url(#stripedark2)"/>
 </g>
-<text x="332" y="135" class="b" font-size="19" fill="#e3b341">90%</text>
-<text x="432" y="135" class="b" font-size="19" fill="#c9d1d9">AI/RAG/LLM</text>
+<text x="332" y="135" class="b" font-size="19" fill="#e3b341">92%</text>
+<text x="432" y="135" class="b" font-size="19" fill="#c9d1d9">NODE.JS</text>
 <rect x="550" y="120" width="180" height="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
-<clipPath id="scdark3"><rect x="550" y="120" width="0" height="14"><animate attributeName="width" from="0" to="158.4" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
+<clipPath id="scdark3"><rect x="550" y="120" width="0" height="14"><animate attributeName="width" from="0" to="162.0" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
 <g clip-path="url(#scdark3)">
 <pattern id="stripedark3" width="10" height="14" patternUnits="userSpaceOnUse">
   <rect width="10" height="14" fill="#f85149"/>
@@ -58,7 +58,7 @@
 </pattern>
 <rect x="550" y="120" width="180" height="14" fill="url(#stripedark3)"/>
 </g>
-<text x="740" y="135" class="b" font-size="19" fill="#f85149">88%</text>
+<text x="740" y="135" class="b" font-size="19" fill="#f85149">90%</text>
 <text x="24" y="179" class="b" font-size="19" fill="#c9d1d9">PYTHON</text>
 <rect x="142" y="164" width="180" height="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
 <clipPath id="scdark4"><rect x="142" y="164" width="0" height="14"><animate attributeName="width" from="0" to="144.0" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>

@@ -15,9 +15,9 @@
 <text x="42" y="35" class="h" font-size="12" fill="#1f2328">CHARACTER STATS</text>
 </g>
 
-<text x="24" y="91" class="b" font-size="19" fill="#1f2328">TYPESCRIPT</text>
+<text x="24" y="91" class="b" font-size="19" fill="#1f2328">AI/RAG/LLM</text>
 <rect x="142" y="76" width="180" height="14" fill="#010409" stroke="#d0d7de" stroke-width="2"/>
-<clipPath id="sclight0"><rect x="142" y="76" width="0" height="14"><animate attributeName="width" from="0" to="171.0" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
+<clipPath id="sclight0"><rect x="142" y="76" width="0" height="14"><animate attributeName="width" from="0" to="158.4" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
 <g clip-path="url(#sclight0)">
 <pattern id="stripelight0" width="10" height="14" patternUnits="userSpaceOnUse">
   <rect width="10" height="14" fill="#58a6ff"/>
@@ -25,10 +25,10 @@
 </pattern>
 <rect x="142" y="76" width="180" height="14" fill="url(#stripelight0)"/>
 </g>
-<text x="332" y="91" class="b" font-size="19" fill="#0969da">95%</text>
-<text x="432" y="91" class="b" font-size="19" fill="#1f2328">REACT/NEXT</text>
+<text x="332" y="91" class="b" font-size="19" fill="#0969da">88%</text>
+<text x="432" y="91" class="b" font-size="19" fill="#1f2328">TYPESCRIPT</text>
 <rect x="550" y="76" width="180" height="14" fill="#010409" stroke="#d0d7de" stroke-width="2"/>
-<clipPath id="sclight1"><rect x="550" y="76" width="0" height="14"><animate attributeName="width" from="0" to="165.6" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
+<clipPath id="sclight1"><rect x="550" y="76" width="0" height="14"><animate attributeName="width" from="0" to="171.0" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
 <g clip-path="url(#sclight1)">
 <pattern id="stripelight1" width="10" height="14" patternUnits="userSpaceOnUse">
   <rect width="10" height="14" fill="#3fb950"/>
@@ -36,10 +36,10 @@
 </pattern>
 <rect x="550" y="76" width="180" height="14" fill="url(#stripelight1)"/>
 </g>
-<text x="740" y="91" class="b" font-size="19" fill="#1a7f37">92%</text>
-<text x="24" y="135" class="b" font-size="19" fill="#1f2328">NODE.JS</text>
+<text x="740" y="91" class="b" font-size="19" fill="#1a7f37">95%</text>
+<text x="24" y="135" class="b" font-size="19" fill="#1f2328">REACT/NEXT</text>
 <rect x="142" y="120" width="180" height="14" fill="#010409" stroke="#d0d7de" stroke-width="2"/>
-<clipPath id="sclight2"><rect x="142" y="120" width="0" height="14"><animate attributeName="width" from="0" to="162.0" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
+<clipPath id="sclight2"><rect x="142" y="120" width="0" height="14"><animate attributeName="width" from="0" to="165.6" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
 <g clip-path="url(#sclight2)">
 <pattern id="stripelight2" width="10" height="14" patternUnits="userSpaceOnUse">
   <rect width="10" height="14" fill="#e3b341"/>
@@ -47,10 +47,10 @@
 </pattern>
 <rect x="142" y="120" width="180" height="14" fill="url(#stripelight2)"/>
 </g>
-<text x="332" y="135" class="b" font-size="19" fill="#9a6700">90%</text>
-<text x="432" y="135" class="b" font-size="19" fill="#1f2328">AI/RAG/LLM</text>
+<text x="332" y="135" class="b" font-size="19" fill="#9a6700">92%</text>
+<text x="432" y="135" class="b" font-size="19" fill="#1f2328">NODE.JS</text>
 <rect x="550" y="120" width="180" height="14" fill="#010409" stroke="#d0d7de" stroke-width="2"/>
-<clipPath id="sclight3"><rect x="550" y="120" width="0" height="14"><animate attributeName="width" from="0" to="158.4" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
+<clipPath id="sclight3"><rect x="550" y="120" width="0" height="14"><animate attributeName="width" from="0" to="162.0" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
 <g clip-path="url(#sclight3)">
 <pattern id="stripelight3" width="10" height="14" patternUnits="userSpaceOnUse">
   <rect width="10" height="14" fill="#f85149"/>
@@ -58,7 +58,7 @@
 </pattern>
 <rect x="550" y="120" width="180" height="14" fill="url(#stripelight3)"/>
 </g>
-<text x="740" y="135" class="b" font-size="19" fill="#cf222e">88%</text>
+<text x="740" y="135" class="b" font-size="19" fill="#cf222e">90%</text>
 <text x="24" y="179" class="b" font-size="19" fill="#1f2328">PYTHON</text>
 <rect x="142" y="164" width="180" height="14" fill="#010409" stroke="#d0d7de" stroke-width="2"/>
 <clipPath id="sclight4"><rect x="142" y="164" width="0" height="14"><animate attributeName="width" from="0" to="144.0" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.4 1"/></rect></clipPath>
