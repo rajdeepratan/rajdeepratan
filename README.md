@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/hero.svg" alt="Rajdeep Ratan - Forward Deployed Engineer and Senior Applied AI Engineer. Agentic systems, RAG in production. Guelph, Canada. Open to work." width="100%" />
+  <img src="https://raw.githubusercontent.com/rajdeepratan/rajdeepratan/master/assets/hero.svg?v=2" alt="Rajdeep Ratan - Forward Deployed Engineer and Senior Applied AI Engineer. Agentic systems, RAG in production. Guelph, Canada. Open to work." width="100%" />
 </p>
 
 <p align="center">
